@@ -8,7 +8,7 @@ const config = {
     }),
     // Base path automatisch goed zetten
     paths: {
-      base: process.env.BASE_PATH || ''
+      base: '/'
     },
     // Let op: assets moeten in static/
     appDir: '_app' // default, kan blijven
